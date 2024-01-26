@@ -1,7 +1,9 @@
 [package]
-name = "wasmer-tests/wasmer-edge-gatsby-sample"
-version = "0.1.0"
-description = "wasmer-tests/wasmer-edge-gatsby-sample website"
+name = "wasmer-examples/gatsby-wasmer-starter"
+version = "0.2.0"
+description = "Wasmer Gatsby starter package"
+readme = "README.md"
+repository = "https://github.com/wasmer-examples/gatsby-wasmer-starter"
 
 [dependencies]
 "wasmer/static-web-server" = "*"
