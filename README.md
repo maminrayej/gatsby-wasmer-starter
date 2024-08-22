@@ -19,7 +19,7 @@ You can run the Gatsby starter project using Wasmer (check out the [install guid
 
 ```bash
 npm run build
-wasmer run . --net -- --port=3000
+wasmer run . -- --port=3000
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
